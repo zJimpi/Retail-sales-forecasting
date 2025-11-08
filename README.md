@@ -10,3 +10,6 @@ conda actvate venv
 ```
 pip install -r requirments.txt
 ```
+```
+python app.py
+```
